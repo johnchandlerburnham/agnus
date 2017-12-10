@@ -1,3 +1,8 @@
 # agnus
 
-Agnus is a Lambda Calculus Machine
+A collection of lambda calculus mini-projects and scratch-work. "agnus" means
+"lamb" in Latin.
+
+
+
+
